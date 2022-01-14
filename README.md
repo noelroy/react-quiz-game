@@ -5,16 +5,12 @@ Quiz game using react js
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+- [Available Scripts](#available-scripts)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Status](#status)
+- [References](#References)
 
 
 ## Overview
@@ -63,6 +59,7 @@ Update hostname inside package.json before running this script.
 - [Redux]() - State Management
 - [Styled Components](https://styled-components.com/) - For styles
 - [Github Pages](https://pages.github.com) - For deploying
+- [Quiz API](https://trivia.willfry.co.uk/) - Quiz API
 
 
 ## Status
@@ -73,4 +70,3 @@ Completed. Will not be maintained.
 
 - [StopWatch](https://www.30secondsofcode.org/react/s/count-down)
 - [Buttons with gradient background](https://codepen.io/pirrera/pen/bqVeGx)
-- [Quiz API](https://trivia.willfry.co.uk/)
