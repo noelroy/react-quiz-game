@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-quiz-game/static/js/main.f8f1468f.js",
+    "main.js": "/react-quiz-game/static/js/main.1d3a954f.js",
     "index.html": "/react-quiz-game/index.html",
-    "main.f8f1468f.js.map": "/react-quiz-game/static/js/main.f8f1468f.js.map"
+    "main.1d3a954f.js.map": "/react-quiz-game/static/js/main.1d3a954f.js.map"
   },
   "entrypoints": [
-    "static/js/main.f8f1468f.js"
+    "static/js/main.1d3a954f.js"
   ]
 }
